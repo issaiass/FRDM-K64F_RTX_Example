@@ -1,0 +1,27 @@
+Dependencies for Project 'Blink', Target 'Target 1': (DO NOT MODIFY !)
+F (.\main.c)(0x551F3D6B)(-c --cpu Cortex-M4.fp -D__RTX -g -O0 --apcs=interwork --split_sections-I C:\KeilWorkspace\Blink\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\RTOS\RTX\INC-I C:\Keil_v5\ARM\PACK\Keil\Kinetis_K60_DFP\1.3.0\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DMK64FN1M0xxx12-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (osObjects.h)(0x51AE2DE0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\RTOS\RTX\INC\cmsis_os.h)(0x550335FE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5476A9D0)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5476A9D0)
+I (C:\Keil_v5\ARM\PACK\Keil\Kinetis_K60_DFP\1.3.0\Device\Include\MK64F12.h)(0x5404C1E0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cm4.h)(0x5509F2D4)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmInstr.h)(0x5509F2D4)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmFunc.h)(0x5509F2D4)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmSimd.h)(0x5509F2D4)
+I (C:\Keil_v5\ARM\PACK\Keil\Kinetis_K60_DFP\1.3.0\Device\Include\system_MK64F12.h)(0x5404C1E0)
+F (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\RTOS\RTX\LIB\ARM\RTX_CM4.lib)(0x550B2836)()
+F (RTE\CMSIS\RTX_Conf_CM.c)(0x551F3E82)(-c --cpu Cortex-M4.fp -D__RTX -g -O0 --apcs=interwork --split_sections-I C:\KeilWorkspace\Blink\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\RTOS\RTX\INC-I C:\Keil_v5\ARM\PACK\Keil\Kinetis_K60_DFP\1.3.0\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DMK64FN1M0xxx12-o .\objects\rtx_conf_cm.o --omf_browse .\objects\rtx_conf_cm.crf --depend .\objects\rtx_conf_cm.d)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\RTOS\RTX\INC\cmsis_os.h)(0x550335FE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5476A9D0)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5476A9D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\RTOS\RTX\INC\RTX_CM_lib.h)(0x550335FE)
+F (RTE\Device\MK64FN1M0xxx12\startup_MK64F12.s)(0x5404C1E0)(--cpu Cortex-M4.fp --pd "__RTX SETA 1" -g --apcs=interwork -I C:\KeilWorkspace\Blink\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\RTOS\RTX\INC-I C:\Keil_v5\ARM\PACK\Keil\Kinetis_K60_DFP\1.3.0\Device\Include--pd "__UVISION_VERSION SETA 514" --pd "_RTE_ SETA 1" --pd "MK64FN1M0xxx12 SETA 1"--list .\listings\startup_mk64f12.lst --xref -o .\objects\startup_mk64f12.o --depend .\objects\startup_mk64f12.d)
+F (RTE\Device\MK64FN1M0xxx12\system_MK64F12.c)(0x5404C1E0)(-c --cpu Cortex-M4.fp -D__RTX -g -O0 --apcs=interwork --split_sections-I C:\KeilWorkspace\Blink\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\RTOS\RTX\INC-I C:\Keil_v5\ARM\PACK\Keil\Kinetis_K60_DFP\1.3.0\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DMK64FN1M0xxx12-o .\objects\system_mk64f12.o --omf_browse .\objects\system_mk64f12.crf --depend .\objects\system_mk64f12.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5476A9D0)
+I (C:\Keil_v5\ARM\PACK\Keil\Kinetis_K60_DFP\1.3.0\Device\Include\MK64F12.h)(0x5404C1E0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cm4.h)(0x5509F2D4)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmInstr.h)(0x5509F2D4)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmFunc.h)(0x5509F2D4)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmSimd.h)(0x5509F2D4)
+I (C:\Keil_v5\ARM\PACK\Keil\Kinetis_K60_DFP\1.3.0\Device\Include\system_MK64F12.h)(0x5404C1E0)

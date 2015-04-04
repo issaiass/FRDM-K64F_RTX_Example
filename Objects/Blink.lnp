@@ -1,0 +1,10 @@
+--cpu Cortex-M4.fp
+".\objects\main.o"
+"C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\RTOS\RTX\LIB\ARM\RTX_CM4.lib"
+".\objects\rtx_conf_cm.o"
+".\objects\startup_mk64f12.o"
+".\objects\system_mk64f12.o"
+--strict --scatter ".\Objects\Blink.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\Blink.map" -o .\Objects\Blink.axf
